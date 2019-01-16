@@ -16,11 +16,11 @@ This is a set of TamperMonkey scripts that make it look like you have AnimeLab p
 
 **BEFORE:**
 
-https://cdn.discordapp.com/attachments/507144562641207318/535079152282238986/fakepremium2.PNG
+![Hopefully this is still here.](https://cdn.discordapp.com/attachments/507144562641207318/535079152282238986/fakepremium2.PNG)
 
 **AFTER:**
 
-https://cdn.discordapp.com/attachments/507144562641207318/535078866348146689/fakepremium1.PNG
+![Hopefully this is still here.](https://cdn.discordapp.com/attachments/507144562641207318/535078866348146689/fakepremium1.PNG)
 
 
 *Q. How do I install this?*
