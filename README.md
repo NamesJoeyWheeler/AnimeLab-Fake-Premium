@@ -14,3 +14,20 @@ This is a set of TamperMonkey scripts that make it look like you have AnimeLab p
 
 -It removes the 'Premium Only' text that appears on some videos on the front page (**THIS DOES NOT ALLOW YOU TO WATCH PREMIUM ONLY SHOWS WITHOUT PREMIUM!**).
 
+**BEFORE:**
+
+https://cdn.discordapp.com/attachments/507144562641207318/535079152282238986/fakepremium2.PNG
+
+**AFTER:**
+
+https://cdn.discordapp.com/attachments/507144562641207318/535078866348146689/fakepremium1.PNG
+
+
+*Q. How do I install this?*
+
+-First you must install TamperMonkey for Chrome.
+
+*This can be found here: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo*
+
+
+
