@@ -36,7 +36,7 @@ This is a set of TamperMonkey scripts that make it look like you have AnimeLab p
 -They should now work!
 
 
-*Problems*
+*Q. Are There Any Problems*
 
 Yes, this still has some problems. Here's a list of 'em.
 
@@ -46,7 +46,7 @@ Yes, this still has some problems. Here's a list of 'em.
 
 
 
-*Future implementations?*
+*Q. Will there be any future features?*
 
 There are some features that I would like to add in the future.
 
