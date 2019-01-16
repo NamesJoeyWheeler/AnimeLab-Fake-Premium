@@ -31,5 +31,30 @@ This is a set of TamperMonkey scripts that make it look like you have AnimeLab p
 
 *This can be found here: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo*
 
+-Next you must go to the raw page of each script in this repository. It should bring up a TamperMonkey page asking if you want to install. Install them.
+
+-They should now work!
+
+
+*Problems*
+
+Yes, this still has some problems. Here's a list of 'em.
+
+-Profile page does not change.
+
+-Not all of the 'Premium Only' text on the home page goes away. If you click the arrow for 'Recently Aired', you will see shows that still have the text.
+
+
+
+*Future implementations?*
+
+There are some features that I would like to add in the future.
+
+-Profile page shows a 'premium subscription'.
+
+-Remove 'Switch to Dub Dubbed Premium' box on video and replace it with regular 'Switch to Dub' box.
+
+-Replace the red '720p Premium' & '1080p Premium' options in video and replace them with regular '720p' and 1080p' boxes.
+
 
 
