@@ -44,6 +44,8 @@ Yes, this still has some problems. Here's a list of 'em.
 
 -Not all of the 'Premium Only' text on the home page goes away. If you click the arrow for 'Recently Aired', you will see shows that still have the text.
 
+-Premium only shows still have a countdown attached.
+
 
 
 *Q. Will there be any future features?*
