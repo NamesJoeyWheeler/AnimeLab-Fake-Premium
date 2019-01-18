@@ -16,7 +16,7 @@ This is a set of TamperMonkey scripts that make it look like you have AnimeLab p
 
 **BEFORE:**
 
-![Hopefully this is still here.](https://cdn.discordapp.com/attachments/507144562641207318/535079152282238986/fakepremium2.PNG)
+![Hopefully this is still here.](https://cdn.discordapp.com/attachments/507144562641207318/535651191984750616/fakepremium6.PNG)
 ![Hopefully this is still here.](https://cdn.discordapp.com/attachments/507144562641207318/535080069564071936/fakepremium3.PNG)
 
 **AFTER:**
